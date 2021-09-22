@@ -1,0 +1,13 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:aliceblue;
+    color: black;
+    text-align: center;
+  }
+.footer a{
+    padding: 5px;
+    size: 5x;
+}
